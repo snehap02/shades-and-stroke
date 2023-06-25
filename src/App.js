@@ -49,7 +49,7 @@ function App() {
                 </h1>
               </div>
               <div className="grid grid-cols-4 gap-10 sm:gap-20 mt-10">
-                <div className="w-10 h-10 lg:w-14 rounded-xl lg:h-14 bg-[#adadad] rotate-45"></div>
+                <div className="w-10 h-10 lg:w-14 rounded-xl lg:h-14 bg-[#757575] rotate-45"></div>
                 <div className="w-10 h-10 lg:w-14 rounded-xl lg:h-14 bg-[#e06c75] rotate-45"></div>
                 <div className="w-10 h-10 lg:w-14 rounded-xl lg:h-14 bg-[#c678dd] rotate-45"></div>
                 <div className="w-10 h-10 lg:w-14 rounded-xl lg:h-14 bg-[#d19a66] rotate-45"></div>
